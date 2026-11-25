@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://san-francisco-ca-94133.onrender.com/sitemap.xml
+Sitemap: https://san-francisco-ca-94133.onrender.com/san-francisco-property-management/sitemap.xml
