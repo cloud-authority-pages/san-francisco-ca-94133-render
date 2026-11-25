@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: san-francisco-ca-94133
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
